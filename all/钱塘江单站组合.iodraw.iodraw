@@ -110,6 +110,9 @@
         <mxCell id="Kgbu-30U71qEITCmSDbb-21" value="南王埠武义至金华区间新安江模型演算" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="800" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Kgbu-30U71qEITCmSDbb-24" value="金华站下泄马斯京根河道演进模型演算" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
