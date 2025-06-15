@@ -169,31 +169,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QsFWDEcpAsCir1IXu2FZ-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="QsFWDEcpAsCir1IXu2FZ-4" target="QsFWDEcpAsCir1IXu2FZ-6">
+        <mxCell id="QsFWDEcpAsCir1IXu2FZ-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="QsFWDEcpAsCir1IXu2FZ-4" target="QsFWDEcpAsCir1IXu2FZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QsFWDEcpAsCir1IXu2FZ-4" value="模型平台特性分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="QsFWDEcpAsCir1IXu2FZ-4" value="模型平台特性分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QsFWDEcpAsCir1IXu2FZ-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.011;exitY=0.622;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=13;" edge="1" parent="1" source="QsFWDEcpAsCir1IXu2FZ-5" target="QsFWDEcpAsCir1IXu2FZ-6">
+        <mxCell id="QsFWDEcpAsCir1IXu2FZ-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.011;exitY=0.622;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;" edge="1" parent="1" source="QsFWDEcpAsCir1IXu2FZ-5" target="QsFWDEcpAsCir1IXu2FZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QsFWDEcpAsCir1IXu2FZ-5" value="各类启发式算法比较（HEFT/PSO等）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="QsFWDEcpAsCir1IXu2FZ-5" value="各类启发式算法比较（HEFT/PSO等）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QsFWDEcpAsCir1IXu2FZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="QsFWDEcpAsCir1IXu2FZ-6" target="QsFWDEcpAsCir1IXu2FZ-7">
+        <mxCell id="QsFWDEcpAsCir1IXu2FZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="QsFWDEcpAsCir1IXu2FZ-6" target="QsFWDEcpAsCir1IXu2FZ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QsFWDEcpAsCir1IXu2FZ-6" value="确定基线算法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="QsFWDEcpAsCir1IXu2FZ-6" value="确定基线算法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QsFWDEcpAsCir1IXu2FZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="QsFWDEcpAsCir1IXu2FZ-7" target="QsFWDEcpAsCir1IXu2FZ-9">
+        <mxCell id="QsFWDEcpAsCir1IXu2FZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="QsFWDEcpAsCir1IXu2FZ-7" target="QsFWDEcpAsCir1IXu2FZ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QsFWDEcpAsCir1IXu2FZ-7" value="算法改进" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="QsFWDEcpAsCir1IXu2FZ-7" value="算法改进" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="520" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QsFWDEcpAsCir1IXu2FZ-9" value="目标优化（Makespan+load blance）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="QsFWDEcpAsCir1IXu2FZ-9" value="目标优化（Makespan+load blance）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="720" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
