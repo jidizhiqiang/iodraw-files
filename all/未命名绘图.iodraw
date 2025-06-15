@@ -170,10 +170,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QsFWDEcpAsCir1IXu2FZ-4" value="模型平台特性分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QsFWDEcpAsCir1IXu2FZ-5" value="模型平台特性分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
