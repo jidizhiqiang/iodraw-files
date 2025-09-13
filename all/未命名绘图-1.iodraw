@@ -212,7 +212,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mqRpP7XAlUrCKfoRVbTE-1" value="接收计算任务，根据任务类别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mqRpP7XAlUrCKfoRVbTE-1" value="接收计算任务，根据任务类别进行预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
