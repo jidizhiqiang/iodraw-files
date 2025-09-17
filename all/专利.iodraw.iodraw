@@ -224,8 +224,14 @@
         <mxCell id="mqRpP7XAlUrCKfoRVbTE-2" value="获取任务所需计算量，任务所需最低配置环境及水利云各计算节点状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mqRpP7XAlUrCKfoRVbTE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqRpP7XAlUrCKfoRVbTE-3" target="mqRpP7XAlUrCKfoRVbTE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mqRpP7XAlUrCKfoRVbTE-3" value="任务调度算法进行调度，得到任务调度方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mqRpP7XAlUrCKfoRVbTE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mqRpP7XAlUrCKfoRVbTE-4" target="mqRpP7XAlUrCKfoRVbTE-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mqRpP7XAlUrCKfoRVbTE-4" value="根据任务调度方案将各任务分配至水利云相应计算节点进行计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
