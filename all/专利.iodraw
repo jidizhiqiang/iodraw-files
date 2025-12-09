@@ -388,6 +388,9 @@
             <mxPoint x="740" y="319.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-30" value="待预测任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
