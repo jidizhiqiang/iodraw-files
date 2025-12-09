@@ -208,7 +208,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NaLzBnyVa8Km4B6gkTIP" name="第 5 页">
-    <mxGraphModel dx="993" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -313,7 +313,7 @@
             <mxPoint x="1090" y="769.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r9aHOXLAxvwnvWnzTX0d-6" value="根据任务调度方案将各任务分配至水利云相应计算节点进行计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-6" value="根据综合效用评分构建调度方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r9aHOXLAxvwnvWnzTX0d-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-9" target="r9aHOXLAxvwnvWnzTX0d-4">
@@ -379,7 +379,13 @@
           <mxGeometry x="1040" y="870" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r9aHOXLAxvwnvWnzTX0d-25" value="根据任务调度方案将各任务分配至水利云相应计算节点进行计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="1028" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1089.38" y="830" as="sourcePoint" />
+            <mxPoint x="1089.38" y="869.9999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
