@@ -208,7 +208,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NaLzBnyVa8Km4B6gkTIP" name="第 5 页">
-    <mxGraphModel dx="1444" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,6 +299,91 @@
         </mxCell>
         <mxCell id="r9aHOXLAxvwnvWnzTX0d-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1455" y="448" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1092" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-4" value="接收模型计算任务，获取其初始优先级、截止时间等属性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1032" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-6" target="r9aHOXLAxvwnvWnzTX0d-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-6" value="根据任务调度方案将各任务分配至水利云相应计算节点进行计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-7" value="接收并处理水利云计算结果并以可视化界面返回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-9" target="r9aHOXLAxvwnvWnzTX0d-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-9" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1042" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-14" target="r9aHOXLAxvwnvWnzTX0d-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-11" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r9aHOXLAxvwnvWnzTX0d-10">
+          <mxGeometry x="-0.3333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-14" target="r9aHOXLAxvwnvWnzTX0d-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-13" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r9aHOXLAxvwnvWnzTX0d-12">
+          <mxGeometry x="-0.3333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-14" value="是否流式任务" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1032" y="480" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-16" target="r9aHOXLAxvwnvWnzTX0d-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1212" y="630" />
+              <mxPoint x="1090" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-16" value="直接计算综合评估函数形成任务调度方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1152" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-18" target="r9aHOXLAxvwnvWnzTX0d-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-18" value="使用轻量级机器学习模型LightGBM预估任务的执行时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-19" value="计算任务动态优先级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-19" target="r9aHOXLAxvwnvWnzTX0d-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-22" target="r9aHOXLAxvwnvWnzTX0d-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="630" />
+              <mxPoint x="1090" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-22" value="使用负载均衡型算法DLB-HEFT形成任务调度方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="830" as="sourcePoint" />
+            <mxPoint x="1090" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-24" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="870" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
