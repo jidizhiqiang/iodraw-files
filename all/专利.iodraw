@@ -311,7 +311,7 @@
           <mxGeometry x="280" y="200" width="380" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ctjxOZmQtRKMuM-z5amL-1" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;输入任务特征向量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="120" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ctjxOZmQtRKMuM-z5amL-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
