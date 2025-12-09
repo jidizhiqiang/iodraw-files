@@ -335,10 +335,10 @@
           <mxGeometry x="560" y="300" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ctjxOZmQtRKMuM-z5amL-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="370" width="240" height="110" as="geometry" />
+          <mxGeometry x="370" y="370" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ctjxOZmQtRKMuM-z5amL-11" value="增量学习更新模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="670" y="378" width="120" height="30" as="geometry" />
+          <mxGeometry x="420" y="370" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
