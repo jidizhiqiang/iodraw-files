@@ -307,7 +307,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ctjxOZmQtRKMuM-z5amL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="160" width="360" height="340" as="geometry" />
         </mxCell>
         <mxCell id="ctjxOZmQtRKMuM-z5amL-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
