@@ -314,7 +314,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ctjxOZmQtRKMuM-z5amL-1" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;输入任务特征向量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="300" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ctjxOZmQtRKMuM-z5amL-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -325,11 +325,14 @@
         <mxCell id="ctjxOZmQtRKMuM-z5amL-5" value="待预测任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctjxOZmQtRKMuM-z5amL-6" target="ctjxOZmQtRKMuM-z5amL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ctjxOZmQtRKMuM-z5amL-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;LightGBM预测任务执行时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="300" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ctjxOZmQtRKMuM-z5amL-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;任务预估执行时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="120" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="300" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
