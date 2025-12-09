@@ -378,7 +378,7 @@
         <mxCell id="r9aHOXLAxvwnvWnzTX0d-24" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1040" y="870" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r9aHOXLAxvwnvWnzTX0d-25" value="根据任务调度方案将各任务分配至水利云相应计算节点进行计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-25" value="&lt;span style=&quot;font-size:14.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;任务分发至该目标节点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1028" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r9aHOXLAxvwnvWnzTX0d-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
