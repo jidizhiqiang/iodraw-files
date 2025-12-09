@@ -326,7 +326,7 @@
           <mxGeometry x="480" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ctjxOZmQtRKMuM-z5amL-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;任务预估时长&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
