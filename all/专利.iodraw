@@ -358,6 +358,9 @@
         <mxCell id="ctjxOZmQtRKMuM-z5amL-14" value="更新模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="410" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctjxOZmQtRKMuM-z5amL-20" target="ctjxOZmQtRKMuM-z5amL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ctjxOZmQtRKMuM-z5amL-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="170" width="240" height="100" as="geometry" />
         </mxCell>
@@ -374,10 +377,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ctjxOZmQtRKMuM-z5amL-23" value="生成数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="205" width="50" height="30" as="geometry" />
+          <mxGeometry x="455" y="210" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ctjxOZmQtRKMuM-z5amL-24" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="205" width="50" height="30" as="geometry" />
+          <mxGeometry x="530" y="210" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
