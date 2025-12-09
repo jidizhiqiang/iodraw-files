@@ -1,6 +1,6 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17" pages="6">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17" pages="6">
   <diagram name="第 1 页" id="TmiDsDDjuN9MsxxdzfQ3">
-    <mxGraphModel dx="1621" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1621" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lnwvbXrNcoq7y2Woiet3" name="第 2 页">
-    <mxGraphModel dx="-33" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="307" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GGKVxTMCbwdfHI4y45_g" name="第 3 页">
-    <mxGraphModel dx="794" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,7 +200,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eXcMyCcDYv9YJ8gCH7gB" name="第 4 页">
-    <mxGraphModel dx="794" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,47 +208,188 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NaLzBnyVa8Km4B6gkTIP" name="第 5 页">
-    <mxGraphModel dx="934" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="166" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mqRpP7XAlUrCKfoRVbTE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mqRpP7XAlUrCKfoRVbTE-1" target="mqRpP7XAlUrCKfoRVbTE-2" edge="1">
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1092" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-4" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 16px;&quot;&gt;接收并解析数字孪生水利模型计算任务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1032" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="769.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据综合效用评分构建调度方案&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-9" target="r9aHOXLAxvwnvWnzTX0d-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqRpP7XAlUrCKfoRVbTE-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;接收计算任务，根据任务类别进行预处理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="360" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1042" y="80" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mqRpP7XAlUrCKfoRVbTE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mqRpP7XAlUrCKfoRVbTE-2" target="mqRpP7XAlUrCKfoRVbTE-3" edge="1">
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-14" target="r9aHOXLAxvwnvWnzTX0d-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqRpP7XAlUrCKfoRVbTE-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;预测任务计算时间，任务所需最低配置环境及水利云各计算节点状态&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-11" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="r9aHOXLAxvwnvWnzTX0d-10">
+          <mxGeometry x="-0.3333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="mqRpP7XAlUrCKfoRVbTE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mqRpP7XAlUrCKfoRVbTE-3" target="mqRpP7XAlUrCKfoRVbTE-4" edge="1">
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-14" target="r9aHOXLAxvwnvWnzTX0d-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqRpP7XAlUrCKfoRVbTE-3" value="任务调度算法进行调度，得到任务调度方案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-13" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="r9aHOXLAxvwnvWnzTX0d-12">
+          <mxGeometry x="-0.3333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="mqRpP7XAlUrCKfoRVbTE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mqRpP7XAlUrCKfoRVbTE-4" target="mqRpP7XAlUrCKfoRVbTE-5" edge="1">
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;是否流式任务&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1032" y="480" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-16" target="r9aHOXLAxvwnvWnzTX0d-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1212" y="630" />
+              <mxPoint x="1090" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;直接计算综合效用评分&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1152" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-18" target="r9aHOXLAxvwnvWnzTX0d-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mqRpP7XAlUrCKfoRVbTE-4" value="根据任务调度方案将各任务分配至水利云相应计算节点进行计算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;任务执行时间预测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mqRpP7XAlUrCKfoRVbTE-5" value="接收并处理水利云计算结果并以可视化界面返回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-19" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Helvetica&quot;&gt;计算任务动态优先级&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-19" target="r9aHOXLAxvwnvWnzTX0d-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r9aHOXLAxvwnvWnzTX0d-22" target="r9aHOXLAxvwnvWnzTX0d-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="630" />
+              <mxPoint x="1090" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-22" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 16px;&quot;&gt;构建子任务队列并计算综合效用评分&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="870" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-25" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;任务分发至目标计算节点&lt;/font&gt;计算&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1028" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9aHOXLAxvwnvWnzTX0d-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1089.38" y="830" as="sourcePoint" />
+            <mxPoint x="1089.38" y="869.9999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="2KvXcLdd_9b59waC0Tdx" name="第 6 页">
-    <mxGraphModel dx="794" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="DNAuW_oX2hbEz-ipuIxQ" name="第 6 页">
+    <mxGraphModel dx="662" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QpCVVFlmSko2RBCK2U9--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="360" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctjxOZmQtRKMuM-z5amL-1" target="ctjxOZmQtRKMuM-z5amL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-1" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;输入任务特征向量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="320" as="sourcePoint" />
+            <mxPoint x="300" y="319.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-5" value="待预测任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctjxOZmQtRKMuM-z5amL-6" target="ctjxOZmQtRKMuM-z5amL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;模型预测任务执行时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;任务预估执行时间&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctjxOZmQtRKMuM-z5amL-11" target="ctjxOZmQtRKMuM-z5amL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-11" value="增量学习更新模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctjxOZmQtRKMuM-z5amL-12" target="ctjxOZmQtRKMuM-z5amL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-12" value="定时器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctjxOZmQtRKMuM-z5amL-13" target="ctjxOZmQtRKMuM-z5amL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-13" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="410" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-14" value="更新模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="410" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctjxOZmQtRKMuM-z5amL-20" target="ctjxOZmQtRKMuM-z5amL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-21" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;模型训练&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctjxOZmQtRKMuM-z5amL-22" target="ctjxOZmQtRKMuM-z5amL-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-22" value="特征构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ctjxOZmQtRKMuM-z5amL-23" target="ctjxOZmQtRKMuM-z5amL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-23" value="生成数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="210" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-24" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="210" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="320.08" as="sourcePoint" />
+            <mxPoint x="760" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctjxOZmQtRKMuM-z5amL-30" value="计算动态优先级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="290" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
