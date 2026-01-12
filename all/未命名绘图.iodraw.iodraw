@@ -16,7 +16,7 @@
         <mxCell id="I4iemv3buV9HwzcIAxRj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I4iemv3buV9HwzcIAxRj-4" target="I4iemv3buV9HwzcIAxRj-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I4iemv3buV9HwzcIAxRj-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Critic&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;(Value Function)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="I4iemv3buV9HwzcIAxRj-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Environment&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="560" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I4iemv3buV9HwzcIAxRj-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -31,9 +31,9 @@
             <mxPoint x="440" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4iemv3buV9HwzcIAxRj-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="I4iemv3buV9HwzcIAxRj-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="I4iemv3buV9HwzcIAxRj-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="630" as="sourcePoint" />
+            <mxPoint x="420" y="560" as="sourcePoint" />
             <mxPoint x="440" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
