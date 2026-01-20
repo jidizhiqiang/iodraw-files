@@ -92,7 +92,7 @@
           <mxGeometry x="300" y="130" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="b2DBs9sEYWO3MuFgVugb-12" value="HEFT算法的改进" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="290" width="60" height="50" as="geometry" />
+          <mxGeometry x="280" y="290" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
