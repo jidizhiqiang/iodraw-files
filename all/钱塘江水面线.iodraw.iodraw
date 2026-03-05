@@ -384,7 +384,7 @@
         <mxCell id="NFwZO2d2-03xlqe6ABOo-5" value="&lt;font style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 26px;&quot;&gt;t&lt;/i&gt;&lt;i style=&quot;font-size: 18px;&quot;&gt;entry&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=24;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1635" y="-80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NFwZO2d2-03xlqe6ABOo-7" value="&lt;i&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;end&lt;/span&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=24;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="NFwZO2d2-03xlqe6ABOo-7" value="&lt;i&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;exit&lt;/span&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=24;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1635" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
