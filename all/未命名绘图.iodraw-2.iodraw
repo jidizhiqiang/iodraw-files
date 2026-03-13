@@ -88,10 +88,10 @@
         <mxCell id="OnQ_3P8vNErsayTY78xG-39" value="$$\overrightarrow{\alpha_{13}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="320" y="276" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OnQ_3P8vNErsayTY78xG-40" value="$$\overrightarrow{\alpha_{14}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545" y="306" width="200" height="30" as="geometry" />
+        <mxCell id="OnQ_3P8vNErsayTY78xG-40" value="$$\overrightarrow{\alpha_{14}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="310" y="330" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OnQ_3P8vNErsayTY78xG-42" value="$$\overrightarrow{\alpha_{15}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OnQ_3P8vNErsayTY78xG-42" value="$$\overrightarrow{\alpha_{15}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-75;" vertex="1" parent="1">
           <mxGeometry x="560" y="410" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OnQ_3P8vNErsayTY78xG-43" value="$$\overrightarrow{\alpha_{16}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
