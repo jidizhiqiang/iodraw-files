@@ -70,8 +70,8 @@
             <mxPoint x="486" y="356" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OnQ_3P8vNErsayTY78xG-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3;endAngle=0.1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="270" width="50" height="50" as="geometry" />
+        <mxCell id="OnQ_3P8vNErsayTY78xG-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3;endAngle=0.18529287985029327;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
