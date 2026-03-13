@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OnQ_3P8vNErsayTY78xG-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.7658627587152768;endAngle=0.32379180882521663;" vertex="1" parent="1">
-          <mxGeometry x="470" y="300" width="30" height="40" as="geometry" />
+          <mxGeometry x="470" y="310" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
