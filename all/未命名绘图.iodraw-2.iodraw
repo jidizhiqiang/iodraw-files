@@ -94,6 +94,9 @@
         <mxCell id="OnQ_3P8vNErsayTY78xG-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=none;strokeColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="320" y="170" width="350" height="350" as="geometry" />
         </mxCell>
+        <mxCell id="OnQ_3P8vNErsayTY78xG-46" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=none;strokeColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="350" height="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
