@@ -64,6 +64,9 @@
             <mxPoint x="475" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OnQ_3P8vNErsayTY78xG-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OnQ_3P8vNErsayTY78xG-9" target="OnQ_3P8vNErsayTY78xG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
