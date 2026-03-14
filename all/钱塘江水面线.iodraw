@@ -444,9 +444,6 @@
             <mxPoint x="1841" y="799.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jflzESNCLy9KRRP9bBby-18" value="$$\overrightarrow{K_{11}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1915" y="598" width="170" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
