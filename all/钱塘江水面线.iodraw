@@ -444,7 +444,7 @@
             <mxPoint x="1841" y="799.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jflzESNCLy9KRRP9bBby-19" value="$${\K_{max}}$$" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jflzESNCLy9KRRP9bBby-19" value="$${K_{max}}=3$$" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2000" y="640" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
