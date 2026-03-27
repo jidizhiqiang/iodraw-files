@@ -103,9 +103,9 @@
         <mxCell id="LZ-fFStSQadEaCx_RgAp-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3;endAngle=0.1;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="280" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LZ-fFStSQadEaCx_RgAp-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="LZ-fFStSQadEaCx_RgAp-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="465" y="308.5" as="sourcePoint" />
+            <mxPoint x="458" y="345" as="sourcePoint" />
             <mxPoint x="480" y="323.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="485" y="300" />
