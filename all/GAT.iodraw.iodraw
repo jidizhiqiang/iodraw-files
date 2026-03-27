@@ -95,7 +95,7 @@
           <mxGeometry x="330" y="375" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OnQ_3P8vNErsayTY78xG-43" value="$$\overrightarrow{\alpha_{16}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=60;" parent="1" vertex="1">
-          <mxGeometry x="480" y="530" width="200" height="30" as="geometry" />
+          <mxGeometry x="414" y="360" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OnQ_3P8vNErsayTY78xG-44" value="&lt;font face=&quot;Times New Roman&quot;&gt;concat/avg&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;" parent="1" vertex="1">
           <mxGeometry x="560" y="320" width="80" height="30" as="geometry" />
