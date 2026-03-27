@@ -97,9 +97,6 @@
         <mxCell id="OnQ_3P8vNErsayTY78xG-42" value="$$\overrightarrow{\alpha_{15}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-75;" parent="1" vertex="1">
           <mxGeometry x="330" y="375" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OnQ_3P8vNErsayTY78xG-43" value="$$\overrightarrow{\alpha_{16}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=60;" parent="1" vertex="1">
-          <mxGeometry x="414" y="360" width="200" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="OnQ_3P8vNErsayTY78xG-44" value="&lt;font face=&quot;Times New Roman&quot;&gt;concat/avg&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;" parent="1" vertex="1">
           <mxGeometry x="560" y="320" width="80" height="30" as="geometry" />
         </mxCell>
@@ -108,10 +105,10 @@
         </mxCell>
         <mxCell id="LZ-fFStSQadEaCx_RgAp-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="350" as="sourcePoint" />
-            <mxPoint x="230" y="320" as="targetPoint" />
+            <mxPoint x="180" y="350" as="sourcePoint" />
+            <mxPoint x="200" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="300" />
+              <mxPoint x="150" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
