@@ -92,10 +92,10 @@
           <mxGeometry x="320" y="266" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OnQ_3P8vNErsayTY78xG-40" value="$$\overrightarrow{\alpha_{14}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-15;" parent="1" vertex="1">
-          <mxGeometry x="310" y="320" width="200" height="30" as="geometry" />
+          <mxGeometry x="320" y="310" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OnQ_3P8vNErsayTY78xG-43" value="$$\overrightarrow{\alpha_{16}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=60;" parent="1" vertex="1">
-          <mxGeometry x="414" y="360" width="200" height="30" as="geometry" />
+          <mxGeometry x="420" y="390" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OnQ_3P8vNErsayTY78xG-42" value="$$\overrightarrow{\alpha_{15}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-75;" parent="1" vertex="1">
           <mxGeometry x="330" y="375" width="200" height="30" as="geometry" />
