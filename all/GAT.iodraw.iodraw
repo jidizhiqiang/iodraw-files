@@ -109,8 +109,9 @@
         <mxCell id="LZ-fFStSQadEaCx_RgAp-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.957;exitY=0.69;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LZ-fFStSQadEaCx_RgAp-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="340" as="sourcePoint" />
-            <mxPoint x="230" y="290" as="targetPoint" />
+            <mxPoint x="180" y="320" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="130" y="360" />
               <mxPoint x="100" y="380" />
               <mxPoint x="90" y="310" />
               <mxPoint x="120" y="280" />
