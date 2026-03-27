@@ -291,6 +291,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="SXceiGByDcQ7kIPpUIFF-1" value="$$\overrightarrow{\alpha_{12}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=75;" vertex="1" parent="1">
+          <mxGeometry x="365" y="250" width="200" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
