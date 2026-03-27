@@ -294,6 +294,9 @@
         <mxCell id="SXceiGByDcQ7kIPpUIFF-1" value="$$\overrightarrow{\alpha_{12}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=75;" vertex="1" parent="1">
           <mxGeometry x="365" y="250" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="28E-4PFdGNgWl24HRPWS-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=3;size=20;indent=5;fillColor=default;strokeColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="215" y="460" width="350" height="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
