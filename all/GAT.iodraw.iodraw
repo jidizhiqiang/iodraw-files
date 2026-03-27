@@ -103,7 +103,7 @@
         <mxCell id="OnQ_3P8vNErsayTY78xG-44" value="&lt;font face=&quot;Times New Roman&quot;&gt;concat/avg&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;" parent="1" vertex="1">
           <mxGeometry x="560" y="320" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LZ-fFStSQadEaCx_RgAp-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3;endAngle=0.1;" vertex="1" parent="1">
+        <mxCell id="LZ-fFStSQadEaCx_RgAp-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3;endAngle=0.1;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="280" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
